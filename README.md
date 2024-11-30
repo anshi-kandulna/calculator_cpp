@@ -1,0 +1,1 @@
+This project is an ongoing attempt to build a simple calculator using C++. It serves as a learning exercise where I continue to enhance the functionality of the calculator as I learn more about C++ programming concepts. The purpose of this project is to practice and apply different C++ features, improve problem-solving skills, and refine coding techniques.
